@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampIntro", "CampIntro\CampIntro.csproj", "{FDBF320B-B7DC-448F-8F3E-EC45FBB8890F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDBF320B-B7DC-448F-8F3E-EC45FBB8890F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDBF320B-B7DC-448F-8F3E-EC45FBB8890F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDBF320B-B7DC-448F-8F3E-EC45FBB8890F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDBF320B-B7DC-448F-8F3E-EC45FBB8890F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBC83ACC-00D9-4C70-A8FF-96E164959B71}
+	EndGlobalSection
+EndGlobal
